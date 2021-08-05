@@ -1,8 +1,6 @@
 # SimpleImportCustomer
 
-1.Import customer via admin import.
-
-Go to Customers->All Customers->Click Import Customer button
+1.Import customer
 
 2.Fetch customer data from https://reqres.in/api/users
 
