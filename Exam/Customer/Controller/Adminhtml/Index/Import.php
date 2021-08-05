@@ -35,6 +35,9 @@ use Magento\Newsletter\Model\SubscriberFactory;
 
 class Import extends Index
 {
+    /**
+     * @var ImportServices
+     */
     protected $importServices;
 
     /**
